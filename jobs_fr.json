@@ -1,0 +1,542 @@
+[
+    {
+        "expirydate": "2015-Dec-02", 
+        "jobref": "2015-EX-FR-51331041", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTY0QjQ2QjI4NkY1Njc5MEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "R\u00e9partiteur du Service des incendies \u00e0 temps partiel", 
+        "postdate": "2015-Nov-19", 
+        "salarymax": "40.778"
+    }, 
+    {
+        "expirydate": "2015-Dec-01", 
+        "jobref": "2015-EX-FR-51329940", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTY0QThDNDkzNkU0NTQwNkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "M\u00e9canicien, exploitation des proc\u00e9d\u00e9s", 
+        "postdate": "2015-Nov-17", 
+        "salarymax": "75,620.48"
+    }, 
+    {
+        "expirydate": "2016-Jan-29", 
+        "jobref": "2015-EX-FR-51329937", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTY0MTg0MzRENjgwMUFFREUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Directeur municipal", 
+        "postdate": "2015-Nov-13", 
+        "salarymax": null
+    }, 
+    {
+        "expirydate": "2015-Nov-25", 
+        "jobref": "2015-EX-FR-51326070", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTY0MUE4NEVENEYwMUFGOEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Op\u00e9rateur Proc\u00e9d\u00e9/Op\u00e9rateur processus en formation", 
+        "postdate": "2015-Nov-10", 
+        "salarymax": "72,768.80"
+    }, 
+    {
+        "expirydate": "2015-Nov-26", 
+        "jobref": "2015-EX-FR-51326060", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTY0MUYxRkVENEU3MUIwQ0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Inspecteur de la sant\u00e9 publique", 
+        "postdate": "2015-Nov-13", 
+        "salarymax": "73,640.84"
+    }, 
+    {
+        "expirydate": "2015-Dec-04", 
+        "jobref": "2015-EX-FR-51322421", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTY0RTM4NzA1NERGMzQ2M0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Agent stagiaire du b\u00e2timent", 
+        "postdate": "2015-Nov-20", 
+        "salarymax": "48,981.66"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51266677", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU4OUU3N0Q1REJDMzIyM0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Pr\u00e9pos\u00e9 aux services alimentaires (Gary J. Armstrong)", 
+        "postdate": "2015-Jun-23", 
+        "salarymax": "24.014"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51265354", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTY0MUZFN0NENjMyMUFGNUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Moniteur, Arts niveau interm\u00e9diaire (instructeurs de danse)", 
+        "postdate": "2015-Nov-16", 
+        "salarymax": "27.019"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51264631", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU4NkVCNkYyN0U1MzIzN0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Aide m\u00e9nager occasionnel, Serv garde d'enfants, ", 
+        "postdate": "2015-Jun-21", 
+        "salarymax": "20.385"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51259591", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU4MDQ1NzE0QTc5MjNENUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emploi - Enseignant suppl\u00e9ant", 
+        "postdate": "2015-Jun-17", 
+        "salarymax": "24.430"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51259589", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU3RkUzM0U0MDZBMzIyNEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Cuisinier occasionnel, Services de garde d'enfants", 
+        "postdate": "2015-Jun-17", 
+        "salarymax": "24.430"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51248713", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU2QjVFRkVCQTdBMzIzNEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Infirmier autoris\u00e9  (Gary G. Armstrong)", 
+        "postdate": "2015-Jun-01", 
+        "salarymax": "45.141"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51248712", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU2QjkzMjNCQTdBMzIzNEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Infirmier(\u00e8re) auxiliaire autoris\u00e9(e) (Gary G. Armstrong)", 
+        "postdate": "2015-Jun-02", 
+        "salarymax": "32.335"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51248711", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU4MjExN0NEN0EzMzIyOUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Pr\u00e9pos\u00e9, Services de soutien \u00e0 la personne (Gary J. Armstrong)", 
+        "postdate": "2015-Jun-18", 
+        "salarymax": "27.065"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51235240", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU0OTlFQjgwMjc2NDMyN0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Op\u00e9rateur, Collecte des d\u00e9chets - OCC", 
+        "postdate": "2015-May-07", 
+        "salarymax": "18.500"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51234391", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU0ODMwMThERkMzMDc5RkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Op\u00e9rateur, Collecte des d\u00e9chets", 
+        "postdate": "2015-May-07", 
+        "salarymax": "47,492.64"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51229093", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzOTY4RDBGRkFCNDMyN0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "(Banque d'emplois) Pr\u00e9pos\u00e9, Services de soutien \u00e0 la personne (Peter D. Clark)", 
+        "postdate": "2015-Apr-29", 
+        "salarymax": "27.065"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51229092", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU0OUUxMjAxQkVFNDE0OEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Infirmier(\u00e8re) auxiliaire autoris\u00e9(e) (Peter D. Clark)", 
+        "postdate": "2015-May-07", 
+        "salarymax": "32.335"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51229091", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU0QUMwMDYwMkZFNDMyNkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Infirmier autoris\u00e9 ou infirmier autoris\u00e9 - SLD (Peter D. Clark)", 
+        "postdate": "2015-May-06", 
+        "salarymax": "45.141"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51229090", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzRUEzMDE3MDhGNTMxQkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Pr\u00e9pos\u00e9 aux services alimentaires (Peter D. Clark)", 
+        "postdate": "2015-Apr-29", 
+        "salarymax": "24.014"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51229089", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzQTgxOTg2NTU4MEM0REUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Pr\u00e9pos\u00e9 \u00e0 l'entretien m\u00e9nager (Peter D. Clark)", 
+        "postdate": "2015-Apr-29", 
+        "salarymax": "24.014"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51222149", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxOUFEMkE2NDZDNjkyNUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Coordonnateur des activit\u00e9s, soins de longue dur\u00e9e", 
+        "postdate": "2015-Apr-17", 
+        "salarymax": "32.335"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51214772", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUyM0Q0NTdERUUyMUZEQ0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Sp\u00e9cialiste, Sport, niveau interm\u00e9diaire", 
+        "postdate": "2015-May-19", 
+        "salarymax": "25.987"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51210636", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxQUE3Qjg5OUMxMUE4QUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Cuisinier(\u00e8re) (Carleton Lodge)", 
+        "postdate": "2015-Mar-31", 
+        "salarymax": "27.638"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51210635", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxOTBGNEM2NDZDNjkyNUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Pr\u00e9pos\u00e9 aux services alimentaires (Carleton Lodge)", 
+        "postdate": "2015-Mar-31", 
+        "salarymax": "24.014"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51210634", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxODQ3ODYzOTVDMzgwREUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Pr\u00e9pos\u00e9 \u00e0 l'entretien m\u00e9nager (Carleton Lodge)", 
+        "postdate": "2015-Mar-31", 
+        "salarymax": "24.014"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51210633", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxQThDMjJBQTQ5MTYxNEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Pr\u00e9pos\u00e9, Services de soutien \u00e0 la personne (Carleton Lodge)", 
+        "postdate": "2015-Mar-31", 
+        "salarymax": "27.065"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51210632", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxOTA2N0U2NDZDNjkyNUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Infirmier(\u00e8re) auxiliaire autoris\u00e9(e) (Carleton Lodge)", 
+        "postdate": "2015-Mar-31", 
+        "salarymax": "32.335"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51210629", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxOTAxODI2NDZDNjkyNUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Infirmier autoris\u00e9 ou infirmier autoris\u00e9 - (Carleton Lodge)", 
+        "postdate": "2015-Mar-31", 
+        "salarymax": "45.141"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205143", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxRDkyNDhBM0U0MzJDRkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'Emplois - Op\u00e9r, Syst chrono \u00e9lectronique-prog aqua", 
+        "postdate": "2015-May-19", 
+        "salarymax": "20.020"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205139", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxQUFDOTA5OUMxMUE4QUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Intervenant aupr\u00e8s des jeunes et des enfants # Besoins sp\u00e9ciaux", 
+        "postdate": "2015-May-19", 
+        "salarymax": "18.257"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205138", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTRGRTE0RUZERTJDNkMxQUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois- Sp\u00e9c, Sports niveau d\u00e9butant", 
+        "postdate": "2015-May-19", 
+        "salarymax": "18.257"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205137", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxOTc5NEE4ODE5NUQ1Q0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Sp\u00e9cialiste, Sport, niveau interm\u00e9diaire", 
+        "postdate": "2015-May-19", 
+        "salarymax": "25.987"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205136", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxNjEzREJEODA4MDZFRkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'Emplois - Sp\u00e9cialiste des sports, niveau avanc\u00e9", 
+        "postdate": "2015-May-19", 
+        "salarymax": "33.744"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205135", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTRGMTcwNzkwMURGNzRBM0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'Emplois - Pr\u00e9pos\u00e9, Loisirs et Culture", 
+        "postdate": "2015-May-19", 
+        "salarymax": "11.320"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205134", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxOUIxNDExMzI0NkYyOEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'Emplois - Pr\u00e9pos\u00e9 au patinage public, Loisirs et Culture", 
+        "postdate": "2015-May-19", 
+        "salarymax": "12.689"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205133", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxODVCQzQzOTVDMzgwREUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'Emplois - Chef de programme, Sports", 
+        "postdate": "2015-May-19", 
+        "salarymax": "12.689"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205132", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxQUMwRjFFQUE0NkMxQUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Chef de programme, Besoins sp\u00e9ciaux", 
+        "postdate": "2015-May-19", 
+        "salarymax": "12.689"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205131", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxNkRDRTNEODA4MDZFRkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Chef de programme, Loisirs", 
+        "postdate": "2015-May-19", 
+        "salarymax": "12.689"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205130", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxQUNDMTVFQUE0NkMxQUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Animateur de programme des arts", 
+        "postdate": "2015-May-19", 
+        "salarymax": "12.689"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205128", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxOTVFNjQ2NDZDNjkyNUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Entra\u00eeneur personnel, Conditionnement physique ", 
+        "postdate": "2015-May-19", 
+        "salarymax": "25.987"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205127", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzNzVDMTlGNjVENDk1RkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Sauveteur", 
+        "postdate": "2015-May-19", 
+        "salarymax": "14.804"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205126", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzNzU1MjRGNjVENDk1RkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Moniteur, conditionnement physique sp\u00e9cialis\u00e9", 
+        "postdate": "2015-May-19", 
+        "salarymax": "12.689"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51205125", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzOTNCQTUwMzI1NEIzMkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Moniteur, Besoins sp\u00e9ciaux", 
+        "postdate": "2015-May-19", 
+        "salarymax": "25.987"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51204399", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUyRTM0QzY5MUVDMjEyQ0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Moniteur, Arts niveau d\u00e9butant", 
+        "postdate": "2015-May-19", 
+        "salarymax": "25.987"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51204398", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzNTQzMUY5RTdFNDE0MkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Moniteur, Arts niveau interm\u00e9diaire", 
+        "postdate": "2015-May-19", 
+        "salarymax": "25.987"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51204397", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUyQ0VGMzA4NkM0NUQ1Q0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Moniteur, Conditionnement physique", 
+        "postdate": "2015-May-19", 
+        "salarymax": "25.987"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51204395", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzOEVFODlGNDE4NDUzREUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Moniteur, Aquaforme", 
+        "postdate": "2015-May-19", 
+        "salarymax": "33.744"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51204394", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUzOTNDNjEwMzI1NEIzMkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Moniteur, Arts, niveau avanc\u00e9", 
+        "postdate": "2015-May-19", 
+        "salarymax": "33.744"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51204393", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxQzQzOUQ1MDA0NzRBM0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Repr\u00e9sentant du service \u00e0 la client\u00e8le I", 
+        "postdate": "2015-May-19", 
+        "salarymax": "11.744"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51204391", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxQzc2NkIxRDlEMTg0MEUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Conseiller, Besoins sp\u00e9ciaux", 
+        "postdate": "2015-May-19", 
+        "salarymax": "13.683"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51204389", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxODNCODYzOTVDMzgwREUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Coordonnateur, Activit\u00e9s r\u00e9cr\u00e9atives et culturelles", 
+        "postdate": "2015-May-19", 
+        "salarymax": "13.683"
+    }, 
+    {
+        "expirydate": "2016-May-14", 
+        "jobref": "2015-EX-FR-51199523", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTUxOTIyMzk2RUU5NTMwNUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque D'emplois - Pr\u00e9p., Salle d'entra\u00een. et de muscu.", 
+        "postdate": "2015-May-19", 
+        "salarymax": "12.689"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51120589", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTRFNEZFRUVDQkU4NzRBM0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois, Infirmier autoris\u00e9 - (Centre Champlain)", 
+        "postdate": "2015-Feb-19", 
+        "salarymax": "45.141"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51120588", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTRFNEZGOURDQkU4NzRBM0UxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois - Infirmier(\u00e8re) auxiliaire autoris\u00e9(e) (Centre Champlain)", 
+        "postdate": "2015-Feb-19", 
+        "salarymax": "32.335"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51120587", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTRFMTgzRDU5RkRBNTBFNUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Banque d'emplois Pr\u00e9pos\u00e9, Services de soutien \u00e0 la personne (Centre Champlain)", 
+        "postdate": "2015-Feb-19", 
+        "salarymax": "27.065"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51110520", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTREQzI2QUJGQTlGM0EyQUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "M\u00e9canicien brevet\u00e9 - Banque d'emplois", 
+        "postdate": "2015-Feb-13", 
+        "salarymax": "7"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51084752", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTRBMzI3RjVDMjIwMERCQkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "R\u00e9pertoire des emplois - Repr\u00e9sentant aux services \u00e0 la client\u00e8le II (Mus\u00e9es)", 
+        "postdate": "2015-Feb-13", 
+        "salarymax": "13.192"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51084751", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTRDNTFBNzJDNTI2NTNDQkUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": "Sp\u00e9cialiste du patrimoine (12A) - Banque D'emplois", 
+        "postdate": "2015-Feb-13", 
+        "salarymax": "18.257"
+    }, 
+    {
+        "expirydate": "2015-Dec-31", 
+        "jobref": "2015-EX-FR-51084750", 
+        "joburl": "https://careers.ottawa.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTRBMzA2MzFFMEEwMEE4NUUxMDAwMDAwQzBBODI0MTAmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=210&sap-language=FR&sap-accessibility=X", 
+        "name": "La Ville d\u2019Ottawa", 
+        "position": " R\u00e9pertoire des emplois - Sp\u00e9cialiste, Programmes du patrimoine (12B)  ", 
+        "postdate": "2015-Feb-13", 
+        "salarymax": "25.987"
+    }
+]
